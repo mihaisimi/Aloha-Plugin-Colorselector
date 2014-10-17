@@ -1,4 +1,4 @@
 Aloha-Plugin-Colorselector
 ==========================
 
-Aloha-Plugin-Colorselector
+1 Aloha-Plugin-Colorselector
