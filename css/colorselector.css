@@ -33,10 +33,10 @@
     background-color: #b9d6f9;
 }
 
-.x-btn button.aloha-button-colorselector {
+.aloha-button-colorselector {
     background: url( '../img/icon.gif' );
 }
 
-.x-btn button.aloha-button-fontcolorselector {
+.aloha-button-fontcolorselector {
     background: url( '../img/icon_fc.gif' );
 }
